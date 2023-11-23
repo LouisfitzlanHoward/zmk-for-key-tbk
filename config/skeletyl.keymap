@@ -97,7 +97,7 @@
             bindings = <
 &hm EXCLAMATION Q                  &hm AT_SIGN W                  &hm HASH E                &hm DOLLAR R  &hm PERCENT T  &hm CARET Y                              &hm AMPERSAND U  &hm ASTERISK I       &hm LEFT_PARENTHESIS O   &hm RIGHT_PARENTHESIS P
 &hm LC(A) A                        &kp S                          &kp D                     &kp F         &kp G          &kp H                                    &kp J            &kp K                &kp L                    &hm SEMICOLON SEMICOLON
-&hm HOME Z                         &hm LC(Z) Z                    &hm LC(X) X               &hm LC(C) C   &kp B          &kp N                                    &kp M            &hm LESS_THAN COMMA  &hm GREATER_THAN PERIOD  &hm QUESTION SLASH
+&hm LC(Z) Z                        &hm LC(X) X                    &hm LC(C) C               &hm LC(V) V   &hm HOME B     &kp N                                    &kp M            &hm LESS_THAN COMMA  &hm GREATER_THAN PERIOD  &hm QUESTION SLASH
                    &hm TAB ESCAPE                 &kp LEFT_SHIFT               &lt 1 SPACE                &lt 2 SPACE    &hm ENTER LCTRL  &hm CAPSLOCK BACKSPACE
             >;
         };
