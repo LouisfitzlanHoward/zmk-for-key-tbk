@@ -104,10 +104,10 @@
 
         lower_layer {
             bindings = <
-&hm TILDE GRAVE          &bt BT_SEL 2          &bt BT_SEL 3          &bt BT_SEL 4  &trans  &kp N6          &kp N7  &kp N8                       &kp N9                         &kp N0
-&trans                   &trans                &trans                &trans        &trans  &trans          &none   &none                        &hm UNDERSCORE MINUS           &hm PLUS EQUAL
-&trans                   &trans                &trans                &trans        &trans  &trans          &trans  &hm LEFT_BRACE LEFT_BRACKET  &hm RIGHT_BRACE RIGHT_BRACKET  &hm PIPE BACKSLASH
-                 &trans                &trans                &trans                &trans  &trans  &trans
+&hm TILDE GRAVE          &bt BT_SEL 2          &bt BT_SEL 3          &bt BT_SEL 4  &trans  &kp N6              &kp N7  &kp N8                       &kp N9                         &kp N0
+&trans                   &trans                &trans                &trans        &trans  &trans              &none   &none                        &hm UNDERSCORE MINUS           &hm PLUS EQUAL
+&trans                   &trans                &bt BT_CLR            &trans        &trans  &bt BT_NXT          &trans  &hm LEFT_BRACE LEFT_BRACKET  &hm RIGHT_BRACE RIGHT_BRACKET  &hm PIPE BACKSLASH
+                 &trans                &trans                &trans                &trans  &trans      &trans
             >;
         };
 
